@@ -1,0 +1,4 @@
+interface:
+  display_name: "Testin 培训PPT"
+  short_description: "按 Testin 模板生成和修订中文培训PPT成品"
+  default_prompt: "使用 $testin-training-deck-maker，将中文大纲和 Testin 模板制作成可交付的 PPT 成品。"
